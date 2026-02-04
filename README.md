@@ -57,9 +57,3 @@ This project demonstrates a basic ETL (Extract, Transform, Load) pipeline using 
 
 
 
-
-
-
-
-
-
